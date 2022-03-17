@@ -7,6 +7,12 @@
 [![Latest Dev Version](https://img.shields.io/packagist/vpre/tymon/jwt-auth.svg?style=flat-square&logo=composer)](https://packagist.org/packages/tymon/jwt-auth#dev-develop)
 [![Monthly Downloads](https://img.shields.io/packagist/dm/tymon/jwt-auth.svg?style=flat-square&logo=composer)](https://packagist.org/packages/tymon/jwt-auth)
 
+## Warning
+
+This fork is only used for my projects and has been proven to be successful in production. I will only add the updates that are necessary to maintain the existing application.
+
+Use [PHP-Open-Source-Saver/jwt-auth](https://github.com/PHP-Open-Source-Saver/jwt-auth) instead if you're looking for better support and compability with your project.
+
 ## Documentation
 
 Documentation for `1.*` [here](http://jwt-auth.com)
